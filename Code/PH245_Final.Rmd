@@ -1,0 +1,18 @@
+---
+title: "Public_Health_Final_Project"
+author: "Jiyoon Clover Jeong"
+date: "9/1/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+
+soccerdata <- read.csv("/Users/cloverjiyoon/2017Fall/PH 245/Project/soccerdata.csv")
+
+
+
+```
