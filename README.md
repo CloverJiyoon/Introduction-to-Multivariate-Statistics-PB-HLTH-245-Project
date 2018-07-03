@@ -1,4 +1,4 @@
-# PH245
+# Introduction to Multivariate Statistics
 Public Health 245 Final project
 
 Executive summary:
